@@ -1,6 +1,6 @@
 # Dictionary-Analysis
 
-• Tableau visualization : https://public.tableau.com/views/DictionaryAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+• Tableau visualization : https://public.tableau.com/views/DictionaryAnalysis/Dashboard1
 
 • SQL Queries used: https://github.com/DablewCodes/Dictionary-Analysis/blob/main/queries.sql
 
