@@ -2,7 +2,7 @@
 
 • Tableau visualization : https://public.tableau.com/views/DictionaryAnalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
-• SQL Queries used: -
+• SQL Queries used: https://github.com/DablewCodes/Dictionary-Analysis/blob/main/queries.sql
 
 An EDA performed just to poke around in the dataset and find some general facts and figures.
 
@@ -20,5 +20,7 @@ No data cleaning was involved as it wasn't required
 Technologies used:
 
 • Excel
+
 • BigQuery
+
 • Tablaeu
